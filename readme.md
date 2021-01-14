@@ -25,17 +25,17 @@
 12. Q&A
 
 ## Authors and presenters
-Matthew Jones (NVIDIA)
-Tom Drabas (BlazingSQL)
+* Matthew Jones (NVIDIA)
+* Tom Drabas (BlazingSQL)
 
 ## Greater team
-Rodrigo Aramburu (BlazingSQL)
-Brad Rees (NVIDIA)
-John Zedlewski (NVIDIA)
-Paul Mahler (NVIDIA)
-Nick Becker (NVIDIA)
-Chau Dang (NVIDIA)
-Joshua Patterson (NVIDIA)
-Keith Kraus (NVIDIA)
-Michael Beaumont (NVIDIA)
-Manuel Reyes Gomez (NVIDIA)
+* Rodrigo Aramburu (BlazingSQL)
+* Brad Rees (NVIDIA)
+* John Zedlewski (NVIDIA)
+* Paul Mahler (NVIDIA)
+* Nick Becker (NVIDIA)
+* Chau Dang (NVIDIA)
+* Joshua Patterson (NVIDIA)
+* Keith Kraus (NVIDIA)
+* Michael Beaumont (NVIDIA)
+* Manuel Reyes Gomez (NVIDIA)
