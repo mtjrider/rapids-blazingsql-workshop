@@ -4,10 +4,10 @@
 
 | demos/ |  |
 |--------|--|
-| [Visualization.ipynb](https://github.com/mtjrider/rapids-blazingsql-workshop/blob/master/demos/Visualization_Demo.ipynb) | Using RAPIDS to visualize NYC taxi data |
-| [cuDF.ipynb](https://github.com/mtjrider/rapids-blazingsql-workshop/blob/master/demos/cuDF.ipynb) | Using cuDF to perform ETL on Seattle parking data |
-| [BlazingSQL.ipynb](https://github.com/mtjrider/rapids-blazingsql-workshop/blob/master/demos/BlazingSQL.ipynb) | Using BlazingSQL to perform ETL on Seattle parking data |
-| [cuML.ipynb](https://github.com/mtjrider/rapids-blazingsql-workshop/blob/master/demos/cuML.ipynb) | Using cuML to build a regressor to predict parking occupancy |
+| [Visualization.ipynb](demos/Visualization.ipynb) | Using RAPIDS to visualize NYC taxi data |
+| [cuDF.ipynb](demos/cuDF.ipynb) | Using cuDF to perform ETL on Seattle parking data |
+| [BlazingSQL.ipynb](demos/BlazingSQL.ipynb) | Using BlazingSQL to perform ETL on Seattle parking data |
+| [cuML.ipynb](demos/cuML.ipynb) | Using cuML to build a regressor to predict parking occupancy |
 
 ## Workshop Schedule
 
@@ -23,3 +23,19 @@
 10. Break
 11. Dask and Beyond
 12. Q&A
+
+## Authors and presenters
+Matthew Jones (NVIDIA)
+Tom Drabas (BlazingSQL)
+
+## Greater team
+Rodrigo Aramburu (BlazingSQL)
+Brad Rees (NVIDIA)
+John Zedlewski (NVIDIA)
+Paul Mahler (NVIDIA)
+Nick Becker (NVIDIA)
+Chau Dang (NVIDIA)
+Joshua Patterson (NVIDIA)
+Keith Kraus (NVIDIA)
+Michael Beaumont (NVIDIA)
+Manuel Reyes Gomez (NVIDIA)
