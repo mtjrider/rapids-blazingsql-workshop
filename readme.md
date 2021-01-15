@@ -9,6 +9,13 @@
 | [BlazingSQL.ipynb](demos/BlazingSQL.ipynb) | Using BlazingSQL to perform ETL on Seattle parking data |
 | [cuML.ipynb](demos/cuML.ipynb) | Using cuML to build a regressor to predict parking occupancy |
 
+## Getting Started
+
+1. Go to the [BlazingSQL JupyterLab App] (https://app.blazingsql.com/)
+2. Login to the JupyterLab interface
+3. Open a Terminal
+4. `git clone https://github.com/mtjrider/rapids-blazingsql-workshop.git`
+
 ## Workshop Schedule
 
 1. Visualization demonstration.
