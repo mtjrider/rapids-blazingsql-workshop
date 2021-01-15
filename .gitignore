@@ -1,3 +1,5 @@
 # MAC OS X junk
 ._*
 .DS*
+
+.ipynb_checkpoints
