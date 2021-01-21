@@ -21,13 +21,10 @@
 1. Visualization demonstration.
 2. RAPIDS overview
 3. Intro to cuDF + BlazingSQL
-4. Break
 5. cuDF hands-on
 6. BlazingSQL hands-on
-7. Break
 8. Intro to cuML
 9. cuML hands-on
-10. Break
 11. Dask and Beyond
 12. Q&A
 
